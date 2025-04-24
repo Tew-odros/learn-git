@@ -3,3 +3,4 @@ My first file
 This is a simple example text!!
 
 This is also an example text.
+This is a text written from 'addis_b' branch!!
