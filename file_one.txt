@@ -8,3 +8,4 @@ another text...
 This is a text for testing 'git fetch' command!
 
 This is a text written from 'addis_b' branch!!
+This is a text from 'new_branch' branch!!
